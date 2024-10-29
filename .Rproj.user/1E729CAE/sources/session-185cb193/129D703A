@@ -1,0 +1,27 @@
+{
+    "id": "129D703A",
+    "path": "~/Data Cleaning (DataQuest)/NYC Schools Data Cleaning.R",
+    "project_path": "NYC Schools Data Cleaning.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1729780035308.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "298,20",
+        "scrollLine": "0"
+    },
+    "folds": "5|42|18|0|\n19|24|22|0|\n23|35|45|0|\n46|31|61|0|\n62|34|88|0|\n89|34|106|0|\n107|36|120|2|\n121|36|155|0|\n156|22|220|0|\n",
+    "lastKnownWriteTime": 1729876989,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1729876989228,
+    "read_only": false,
+    "read_only_alternatives": []
+}

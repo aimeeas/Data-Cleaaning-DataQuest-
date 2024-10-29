@@ -1,0 +1,44 @@
+---
+title: "Data Cleaning with R"
+output: html_document
+date: "2024-10-24"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## First Steps and Thoughts
+
+1 - Which data do we need for our analysis? 
+
+2 - Do we need to create any new variables? 
+
+3 - Are the features of the dataset in their correct data type? 
+4 - Do we need to combine DataFrames? 
+
+5 - Do we need to reshape the data?
+
+6 - Are there missing data? 
+
+## About the exercise
+
+The datasets we'll be working with in this course come from the New York City Department of Education. They contain data on NYC schools, including student demographics, test scores, graduation rates, dropout rates, and school locations.
+
+Is there a relationship between school class size and test performance?
+Are there any demographic factors that seem related to student test performance?
+Does academic performance vary by school location?
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
